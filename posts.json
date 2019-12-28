@@ -1,0 +1,22 @@
+[
+  {
+    "user": "bob",
+    "title": "Post 1",
+    "body": "This is post 1"
+  },
+  {
+    "user": "jim",
+    "title": "Post 2",
+    "body": "This is post 2"
+  },
+  {
+    "user": "bob",
+    "title": "Post 3",
+    "body": "This is post 3"
+  },
+  {
+    "user": "ron",
+    "title": "Post 4",
+    "body": "This is post 4"
+  }
+]

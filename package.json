@@ -1,0 +1,17 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "REST API auth with JWT",
+  "main": "server.js",
+  "scripts": {
+    "auth": "nodemon auth-server.js",
+    "start": "nodemon server.js"
+  },
+  "author": "Zyandeep",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
